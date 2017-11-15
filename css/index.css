@@ -1,0 +1,21 @@
+ul { margin: 0; padding: 0; list-style: none; }
+
+html, html body section { width: 100%; height: 100%; }
+html body, html body section body { margin: 0; }
+html body header { width: 100%; height: 2.4rem; background: #148ad2; position: relative; }
+html body header img { border: none; }
+html body header img:nth-child(1) { width: 0.92rem; position: absolute; top: 0.7rem; left: 0.6rem; }
+html body header img:nth-child(2) { width: 0.96rem; position: absolute; top: 0.7rem; left: 45%; }
+html body header img:nth-child(3) { width: 1.04rem; position: absolute; top: 0.7rem; right: 0.6rem; }
+html body section nav { background: #0e80c6; height: 3.6rem; width: 100%; text-align: center; }
+html body section nav ul { width: 100%; height: 3.6rem; }
+html body section nav ul li { width: 4rem; height: 3.6rem; float: left; margin: 0 0.4rem; font-size: 20px; box-sizing: border-box; line-height: 3.6rem; }
+html body section nav ul li a { margin-top: 1rem; font-size: 18px; color: #fff; text-decoration: none; display: block; text-align: center; width: 3.6rem; height: 1.44rem; line-height: 1.44rem; }
+html body section nav ul li .box { border: 1px solid #FFFFFF; border-radius: 0.8rem; }
+html body section div { width: 100%; height: 100%; }
+html body section div img { border: none; display: block; }
+html body section div img:nth-child(1) { width: 15rem; }
+html body section div img:nth-child(2) { width: 15rem; }
+html body section div img:nth-child(3) { width: 15rem; }
+
+/*# sourceMappingURL=index.css.map */
